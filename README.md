@@ -6,5 +6,5 @@ Also, it contains docker-compose file.
 
 
 The images for the app and db that have been pushed to docker hub are:
-ajeena/mydb
-ajeena/myapp
+1. ajeena/mydb
+2. ajeena/myapp
