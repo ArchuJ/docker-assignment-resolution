@@ -1,6 +1,6 @@
 FROM openjdk:8-jdk
 
-MAINTAINER archana.jeena@morningstar.com
+MAINTAINER arrchu7@gmail.com
 
 EXPOSE  8080
 WORKDIR "/usr/local/tomcat/"
